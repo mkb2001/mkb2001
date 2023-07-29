@@ -40,6 +40,6 @@
 
 
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:70%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkb2001&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:70%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkb2001&layout=compact&theme=gotham&langs_count=8"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mkb2001&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mkb2001&layout=compact&theme=gotham&langs_count=8"/>
 </div>
