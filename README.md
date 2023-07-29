@@ -10,7 +10,7 @@
 
 
 
-<img align="right" alt="Coding" width=200 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_vf3yj86BmY2vo5t01AeNrngA6Z63ZwMPA&usqp=CAU">
+<img align="right" alt="Coding" width=150 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_vf3yj86BmY2vo5t01AeNrngA6Z63ZwMPA&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkb2001&label=Profile%20views&color=0e75b6&style=flat" alt="mkb2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkb2001" alt="mkb2001" /></a> </p>
