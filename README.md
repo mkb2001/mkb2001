@@ -10,10 +10,6 @@
 
 
 
-<img align="right" alt="Coding" width=150 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_vf3yj86BmY2vo5t01AeNrngA6Z63ZwMPA&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkb2001&label=Profile%20views&color=0e75b6&style=flat" alt="mkb2001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkb2001" alt="mkb2001" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kevinmugarura" target="blank"><img src="https://img.shields.io/twitter/follow/kevinmugarura?logo=twitter&style=for-the-badge" alt="kevinmugarura" /></a> </p>
 
@@ -27,7 +23,7 @@
 
 - 📫 How to reach me **kevinmugarura051@gmail.com**
 
-- ⚡ Fun fact **I think I can sing! Lol**
+- ⚡ Fun fact **I think I can do poetry! Lol**
 <img align="right" alt="Coding" width=200 src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
 
 <h3 align="left">Connect with me:</h3>
