@@ -12,7 +12,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/kevinmugarura" target="blank"><img src="https://img.shields.io/twitter/follow/kevinmugarura?logo=twitter&style=for-the-badge" alt="kevinmugarura" /></a> </p>
-
+![](https://komarev.com/ghpvc/?username=mkb2001&color=green)
 - 🔭 I’m currently working on **Afrilearn**
 
 - 🌱 I’m currently learning **Microsoft Dynamics 365, Django, Flask, ML and generative AI.**
