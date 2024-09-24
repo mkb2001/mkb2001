@@ -2,10 +2,20 @@
 <h1 align="center"><b>Hello World, Kevin Mugarura here</b><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35"></h1>
 <p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Kevin+Mugarura+B...;I+am...;A+self-motivated+Software+Engineering+student;Self-taught+back-end+developer;I+am+a+space+enthusiast+too!" alt="Typing SVG" /></a>
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <p align="left"> <a href="https://twitter.com/kevinmugarura" target="blank"><img src="https://img.shields.io/twitter/follow/kevinmugarura?logo=twitter&style=for-the-badge" alt="kevinmugarura" /></a> </p>
 
