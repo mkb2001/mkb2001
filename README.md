@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **AI/ML**
   
-- 🌱 I’m currently learning **Microsoft Dynamics 365, Django, Flask, ML and generative AI.**
+- 🌱 I’m currently learning **LLMs, CNNs, FastAPI, Django, Flask, ML and generative AI.**
 
 - 👯 I’m looking to collaborate on **Satellite Project**
 
